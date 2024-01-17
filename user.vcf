@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Rabbe;Maria;;;
-FN: Maria  Rabbe 
+N:Guger;Astrid;;;
+FN: Astrid Guger 
 ORG:Autlook Filmsales;
-TITLE:Servicing & Marketing Manager
-EMAIL;type=INTERNET;type=WORK;type=pref:print@autlookfilms.com
+TITLE:Acquisitions & Business Affairs
+EMAIL;type=INTERNET;type=WORK;type=pref:astrid@autlookfilms.com
 TEL;type=Office;type=VOICE:+43 670 208 7881 
-TEL;type=Cell;type=VOICE:+43 677 612 99026
+TEL;type=Cell;type=VOICE:+43 676 5563477
 item1.ADR;type=WORK;type=pref:;;Spittelberggasse 3/14\n1070 Vienna;;;Austria
 item1.X-ABADR:sg
 item2.URL;type=pref:autlookfilms.com
